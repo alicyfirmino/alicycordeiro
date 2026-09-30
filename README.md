@@ -17,7 +17,7 @@
 
 ## Hi World!
 
-I'm **Alicy Cordeiro**, passionate about technology in the fields of **development**, **data, and automation**.
+I'm **Alicy Firmino**, passionate about technology in the fields of **development**, **data, and automation**.
 
 ---
 
